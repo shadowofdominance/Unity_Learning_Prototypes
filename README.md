@@ -1,3 +1,7 @@
+# Unity Gameplay Prototypes – Create With Code Series
+
+A collection of 5 gameplay-focused Unity prototypes demonstrating core game development systems including player mechanics, spawning systems, gameplay loops, UI implementation, animation, and audio integration.
+
 | Prototype | Focus | Systems Demonstrated | Video | Repo |
 |---|---|---|---|---|
 | Core Gameplay Systems | Player Control | Input, Physics | [🎥 Video](https://youtube.com/yourvideo) | [📁 Repo](https://github.com/yourrepo) |
