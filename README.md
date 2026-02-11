@@ -2,7 +2,7 @@
 
 A collection of 5 gameplay-focused Unity prototypes demonstrating core game development systems including player mechanics, spawning systems, gameplay loops, UI implementation, animation, and audio integration.
 
-| Prototype | Focus | Systems Demonstrated | Video | Repo |
+| Prototype | Focus | Systems Demonstrated | Repo |
 |---|---|---|---|---|
 | Core Gameplay Systems | Player Control | Input, Physics | [📁 Prototype 1](https://github.com/shadowofdominance/Unity_CWC_Unit1.git) |
 | Spawning & Projectile | Object Systems | Instantiation, Collision | [📁 Prototype 2](https://github.com/shadowofdominance/Unity_CWC_Unit2.git) |
